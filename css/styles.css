@@ -10,5 +10,13 @@ img {
 }
 
 .right {
- background-color: aquamarine;
+  background-color: aquamarine;
+}
+
+.left {
+  background-color: blue;
+}
+
+div {
+  width: 50%;
 }
