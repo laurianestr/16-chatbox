@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: white;
+  background: #420000;
 }
 
 img {
@@ -9,14 +9,22 @@ img {
   max-width: 100%;
 }
 
+em {
+  color: #FF0000;
+}
+
+.container {
+  background-color: #FF0000;
+  padding: 5px;
+  margin-bottom: 10px;
+  opacity: 60%;
+
+}
 .right {
-  background-color: aquamarine;
+  text-align: end;
 }
 
 .left {
-  background-color: blue;
+  text-align: start;
 }
 
-div {
-  width: 50%;
-}
