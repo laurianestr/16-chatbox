@@ -14,17 +14,23 @@ em {
 }
 
 .container {
+  font-size: 16px;
+  color: #d6d6d6;
   background-color: #FF0000;
   padding: 5px;
-  margin-bottom: 10px;
+  padding-left: 5px;
+  margin-bottom: 30px;
   opacity: 60%;
+  font-family: 'PT Mono', monospace;
 
 }
 .right {
   text-align: end;
+  padding-right: 20px;
 }
 
 .left {
   text-align: start;
+  padding-left: 20px;
 }
 
