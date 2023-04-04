@@ -11,9 +11,14 @@ body {
 }
 
 .right-circle {
-  width: 4%;
+  width: 3%;
   margin-bottom: 3px;
-  right: 0;
+  margin-left: 194px;
+}
+
+.left-circle {
+  width: 3%;
+  margin-bottom: 3px;
 }
 
 .top {
